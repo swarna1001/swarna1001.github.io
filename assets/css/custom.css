@@ -1,11 +1,20 @@
 /* common for all blog-details page */
 
-.custom-color{
-    background-color: aqua;
-}
-
-.back-link{
+#main .back-link{
     float: right;
     margin-top: 10px;
+    padding-top: 2rem;
+    
+}
 
+.major .project-label{
+    color:brown;
+}
+
+#main > .post header.major > h1, #main > .post header.major h2{
+    color:#004830;
+}
+
+#main > .post header.major > h2, #main > .post header.major h2 {
+    color: #4A5D23;
 }

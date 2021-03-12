@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #0667d6;
+		background-color: #1e252d;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -140,7 +140,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #33610b;
 	}
 
 	body, input, select, textarea {
@@ -302,7 +302,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: #1c5a10;
 	}
 
 	blockquote {
@@ -2202,8 +2202,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #212931;
-		color: #212931 !important;
+		box-shadow: inset 0 0 0 2px #309030;
+		color: #487800 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -3775,7 +3775,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 8rem 8rem 1rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
