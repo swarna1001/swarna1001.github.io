@@ -20,7 +20,16 @@
     color: #fff !important;
 }
 
-#footer{
-    float: center;
+/*#footer .send-mail{
+    padding-left: 150px;
 
+}
+
+#footer .mail-image{
+    padding-left: 25px;
+
+}*/
+
+#footer{
+    justify-content: center;
 }
