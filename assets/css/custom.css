@@ -1,0 +1,11 @@
+/* common for all blog-details page */
+
+body{
+    background-color: aqua;
+}
+
+.back-link{
+    float: right;
+    margin-top: 10px;
+
+}
