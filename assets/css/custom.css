@@ -7,14 +7,20 @@
     
 }
 
-.major .project-label{
-    color:brown;
-}
-
 #main > .post header.major > h1, #main > .post header.major h2{
     color:#004830;
 }
 
 #main > .post header.major > h2, #main > .post header.major h2 {
     color: #4A5D23;
+}
+
+#header .logo:hover {
+    border-color: #fff !important;
+    color: #fff !important;
+}
+
+#footer{
+    float: center;
+
 }
