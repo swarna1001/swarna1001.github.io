@@ -33,3 +33,13 @@
 #footer{
     justify-content: center;
 }
+
+.fot-link{
+    padding-top: 2rem;
+}
+
+.bold-content{
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: bold;
+}
