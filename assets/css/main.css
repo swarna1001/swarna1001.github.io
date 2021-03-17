@@ -181,7 +181,6 @@ input, select, textarea {
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
-		text-transform: uppercase;
 		margin: 0 0 1rem 0;
 	}
 
@@ -198,7 +197,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.75rem;
+		font-size: 2.75rem;
 		line-height: 1.3;
 		margin: 0 0 1.5rem 0;
 	}
@@ -302,7 +301,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #1c5a10;
+		color: #1a4212;
 	}
 
 	blockquote {
@@ -2202,8 +2201,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #309030;
-		color: #487800 !important;
+		box-shadow: inset 0 0 0 2px #b87980;
+		color: #630e2a  !important;
 	}
 
 		input[type="submit"]:hover,

@@ -43,3 +43,15 @@
     text-justify: inter-word;
     font-weight: bold;
 }
+
+
+#main > .post header.major > h2, #main > .post header.major h2 {
+    text-transform: uppercase;
+}
+
+
+
+
+#main > .post header.major > h2, #main > .post header.major h2 {
+    color: #231318;
+}
