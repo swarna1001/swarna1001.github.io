@@ -3849,12 +3849,14 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				width: 50%;
+				width: 100%;
 			}
 
 			#main > .posts > * {
 				padding: 4rem;
-				width: 50%;
+				width: 100%;
+				border-bottom: solid 2px #eeeeee;
+
 			}
 
 			#main > .posts > article {
